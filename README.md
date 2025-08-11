@@ -4,7 +4,7 @@
   </h1>
 </p>
 
-This repository contains a curated list of resources addressing the VLN (Visual Language Navigation) SLAM, including visual grounding, spatial reasoning, exploration, and etc.
+This repository contains a curated list of resources addressing the VLN (Visual Language Navigation) SLAM, including visual grounding, spatial reasoning, exploration, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-VLN/issues/new)**. 
 
@@ -15,9 +15,21 @@ If you find this repository useful, a simple star should be the best affirmation
 Feel free to share this list with others!
 
 
+## VLN
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
+
+
+## Learning-based Navigation
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
+
+
+
+
