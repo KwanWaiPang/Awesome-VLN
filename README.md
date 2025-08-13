@@ -30,6 +30,12 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
 
+# Others 
 
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/Humanoid-Occupancy.svg)](https://github.com/Open-X-Humanoid/Humanoid-Occupancy)|[website](https://humanoid-occupancy.github.io/)<br>Multimodal Occupancy Perception| 
 
 
