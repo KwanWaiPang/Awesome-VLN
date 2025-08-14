@@ -35,6 +35,7 @@ Feel free to share this list with others!
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
 |2024|`RAL`|[PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678805)|---|---| 
 |2024|`ICRA`|[Extreme Parkour with Legged Robots](https://arxiv.org/pdf/2309.14341)|[![Github stars](https://img.shields.io/github/stars/chengxuxin/extreme-parkour.svg)](https://github.com/chengxuxin/extreme-parkour)|[website](https://extreme-parkour.github.io/)| 
+|2023|`ICRA`|[ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/pdf/2210.14791)|[![Github stars](https://img.shields.io/github/stars/SimarKareer/ViNL.svg)](https://github.com/SimarKareer/ViNL)|[website](https://www.joannetruong.com/projects/vinl.html)|
 
 
 
