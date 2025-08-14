@@ -15,12 +15,14 @@ If you find this repository useful, a simple star should be the best affirmation
 Feel free to share this list with others!
 
 
+
 ## VLN
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
+
 
 
 ## Learning-based Navigation
@@ -30,8 +32,9 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
 
-# Others 
 
+
+# Occupancy Perception
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
