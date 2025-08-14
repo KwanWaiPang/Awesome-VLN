@@ -40,6 +40,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/Humanoid-Occupancy.svg)](https://github.com/Open-X-Humanoid/Humanoid-Occupancy)|[website](https://humanoid-occupancy.github.io/)<br>Multimodal Occupancy Perception| 
+|2025|`arXiv`|[Roboocc: Enhancing the geometric and semantic scene understanding for robots](https://arxiv.org/pdf/2504.14604)|---|---|
 |2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
 
