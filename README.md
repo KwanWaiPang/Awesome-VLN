@@ -31,6 +31,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning](https://arxiv.org/pdf/2505.11164)|---|---|
+|2025|`CoRL`|[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/pdf/2505.19214)|[![Github stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception.svg)](https://github.com/aCodeDog/OmniPerception)|---|
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
 |2024|`RAL`|[PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678805)|---|---| 
 |2024|`ICRA`|[Extreme Parkour with Legged Robots](https://arxiv.org/pdf/2309.14341)|[![Github stars](https://img.shields.io/github/stars/chengxuxin/extreme-parkour.svg)](https://github.com/chengxuxin/extreme-parkour)|[website](https://extreme-parkour.github.io/)| 
