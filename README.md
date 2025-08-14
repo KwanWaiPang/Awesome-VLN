@@ -31,6 +31,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
+|2024|`RAL`|[PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678805)|---|---| 
 
 
 
