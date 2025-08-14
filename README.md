@@ -43,4 +43,10 @@ Feel free to share this list with others!
 |2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
 
+# Others
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
 
