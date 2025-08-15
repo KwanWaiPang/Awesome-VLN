@@ -30,6 +30,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/fdm.svg)](https://github.com/leggedrobotics/fdm)|[website](https://leggedrobotics.github.io/fdm.github.io/)|
 |2025|`arXiv`|[Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning](https://arxiv.org/pdf/2505.11164)|---|---|
 |2025|`CoRL`|[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/pdf/2505.19214)|[![Github stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception.svg)](https://github.com/aCodeDog/OmniPerception)|---|
 |2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
