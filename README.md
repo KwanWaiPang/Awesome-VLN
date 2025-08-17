@@ -51,6 +51,19 @@ Feel free to share this list with others!
 |2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
 
+# Simulator and Dataset
+| Simulator | Dataset | Link | Note |
+|:---------:|:-------:| ---- |:----:|
+|VizDooma|---|[website](https://vizdoom.cs.put.edu.pl/)|---|
+|House3D|SUNCG|[website](https://github.com/facebookresearch/House3D)|---|
+|AI2THOR|---|[website](http://ai2thor.allenai.org)|---|
+|Gibson|2D-3D-S|[website](http://gibsonenv.stanford.edu/)|---|
+|iGibson|iGibson|[website](http://gibsonenv.stanford.edu/)|---|
+|Matterport3DSimulator|R2R, R4R, REVERIE, SOON|[website](https://github.com/peteanderson80/Matterport3DSimulator)|---|
+|Habitat|VLN-CE|[website](https://aihabitat.org/)|---|
+|AirSim|AerialVLN|[website](https://github.com/microsoft/AirSim)|---|
+
+
 # Others
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
