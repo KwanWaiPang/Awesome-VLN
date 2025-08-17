@@ -22,6 +22,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
+|2022|`In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
 
 
 
