@@ -23,6 +23,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
 |2022|`In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
+|2020|`CVPR`|[REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/YuankaiQi/REVERIE.svg)](https://github.com/YuankaiQi/REVERIE)|---|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|---|
 
 
