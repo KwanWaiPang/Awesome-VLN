@@ -1,6 +1,6 @@
-<img width="72" height="25" alt="image" src="https://github.com/user-attachments/assets/6317aa9d-0f50-4a92-8606-55e00aa227a5" /><img width="211" height="42" alt="image" src="https://github.com/user-attachments/assets/0e241eae-8da9-46d7-b805-dab1c23d1eb5" /><p align="center">
+<p align="center">
   <h1 align="center">
-  Awesome-VLN
+  Awesome Visual-Language-Navigation (VLN)
   </h1>
 </p>
 
