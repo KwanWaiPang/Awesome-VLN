@@ -23,6 +23,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
 |2022|`In Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
+|2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|---|
 
 
 
@@ -60,7 +61,7 @@ Feel free to share this list with others!
 |AI2THOR|---|[website](http://ai2thor.allenai.org)|---|
 |Gibson|2D-3D-S|[website](http://gibsonenv.stanford.edu/)|---|
 |iGibson|iGibson|[website](http://gibsonenv.stanford.edu/)|---|
-|Matterport3DSimulator|R2R, R4R, REVERIE, SOON|[website](https://github.com/peteanderson80/Matterport3DSimulator)|---|
+|Matterport3DSimulator|R2R, R4R, REVERIE, SOON|[website](https://github.com/peteanderson80/Matterport3DSimulator)|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|
 |Habitat|VLN-CE|[website](https://aihabitat.org/)|---|
 |AirSim|AerialVLN|[website](https://github.com/microsoft/AirSim)|---|
 
