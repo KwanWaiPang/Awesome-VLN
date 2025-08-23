@@ -64,6 +64,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2023|`ICCV`|[Aerialvln: Vision-and-language navigation for uavs](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_AerialVLN_Vision-and-Language_Navigation_for_UAVs_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/AirVLN/AirVLN.svg)](https://github.com/AirVLN/AirVLN)|AerialVLN|
 |2021|`CVPR`|[Soon: Scenario oriented object navigation with graph-based exploration](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_SOON_Scenario_Oriented_Object_Navigation_With_Graph-Based_Exploration_CVPR_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ZhuFengdaaa/SOON.svg)](https://github.com/ZhuFengdaaa/SOON)|---|
 |2020|`CVPR`|[REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/YuankaiQi/REVERIE.svg)](https://github.com/YuankaiQi/REVERIE)|REVERIE|
 |2020|`CoRL`|[Vision-and-Dialog Navigation](https://arxiv.org/pdf/1907.04957)|[![Github stars](https://img.shields.io/github/stars/mmurray/cvdn.svg)](https://github.com/mmurray/cvdn/)|CVDN|
