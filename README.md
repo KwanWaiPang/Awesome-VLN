@@ -65,7 +65,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2020|`CVPR`|[REVERIE: Remote Embodied Visual Referring Expression in Real Indoor Environments](https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_REVERIE_Remote_Embodied_Visual_Referring_Expression_in_Real_Indoor_Environments_CVPR_2020_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/YuankaiQi/REVERIE.svg)](https://github.com/YuankaiQi/REVERIE)|REVERIE|
-|2020|`arXiv`|[Vision-and-Dialog Navigation](https://arxiv.org/pdf/1907.04957)|[![Github stars](https://img.shields.io/github/stars/mmurray/cvdn/.svg)](https://github.com/mmurray/cvdn/)|CVDN|
+|2020|`CoRL`|[Vision-and-Dialog Navigation](https://arxiv.org/pdf/1907.04957)|[![Github stars](https://img.shields.io/github/stars/mmurray/cvdn.svg)](https://github.com/mmurray/cvdn/)|CVDN|
 |2019|`Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics`|[Stay on the path: Instruction fidelity in vision-and-language navigation](https://arxiv.org/pdf/1905.12255)|[![Github stars](https://img.shields.io/github/stars/google-research/tree/master/r4r.svg)](https://github.com/google-research/google-research/tree/master/r4r)|R4R|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|R2R<br>[website](https://bringmeaspoon.org/)|
 
