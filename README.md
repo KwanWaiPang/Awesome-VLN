@@ -94,5 +94,6 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
 |2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
 
