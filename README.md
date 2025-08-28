@@ -73,9 +73,10 @@ Feel free to share this list with others!
 |2020|`Proceedings of the Conference on Empirical Methods in Natural Language Processing`|[Where are you? localization from embodied dialog](https://arxiv.org/pdf/2011.08277)|---|[website](https://meerahahn.github.io/way/)|
 |2020|`CoRL`|[Vision-and-Dialog Navigation](https://arxiv.org/pdf/1907.04957)|[![Github stars](https://img.shields.io/github/stars/mmurray/cvdn.svg)](https://github.com/mmurray/cvdn/)|CVDN|
 |2019|`EMNLP-IJCNLP`|[Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning](https://arxiv.org/pdf/1909.01871)|[![Github stars](https://img.shields.io/github/stars/khanhptnk/hanna.svg)](https://github.com/khanhptnk/hanna)|HANNA|
-|2019|`ACL`|[Stay on the path: Instruction fidelity in vision-and-language navigation](https://arxiv.org/pdf/1905.12255)|[![Github stars](https://img.shields.io/github/stars/google-research/tree/master/r4r.svg)](https://github.com/google-research/google-research/tree/master/r4r)|R4R|
+|2019|`ACL`|[Stay on the path: Instruction fidelity in vision-and-language navigation](https://arxiv.org/pdf/1905.12255)|---|R4R<br>[website](https://github.com/google-research/google-research/tree/master/r4r)|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|R2R<br>[website](https://bringmeaspoon.org/)|
 
+<br>
 
 | Simulator | Dataset | Link | Note |
 |:---------:|:-------:| ---- |:----:|
