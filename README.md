@@ -57,8 +57,9 @@ Feel free to share this list with others!
 |2019|`ACL`|[Stay on the path: Instruction fidelity in vision-and-language navigation](https://arxiv.org/pdf/1905.12255)|---|R4R<br>[website](https://github.com/google-research/google-research/tree/master/r4r)|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|R2R<br>[website](https://bringmeaspoon.org/)|
 
-<br>
+<!-- 
 
+<br>
 | Simulator | Dataset | Link | Note |
 |:---------:|:-------:| ---- |:----:|
 |VizDooma|---|[website](https://vizdoom.cs.put.edu.pl/)|---|
@@ -70,6 +71,7 @@ Feel free to share this list with others!
 |Habitat|VLN-CE|[website](https://aihabitat.org/)|---|
 |AirSim|AerialVLN|[website](https://github.com/microsoft/AirSim)|---|
 
+-->
 
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
