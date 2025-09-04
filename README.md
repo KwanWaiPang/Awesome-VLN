@@ -15,18 +15,16 @@ If you find this repository useful, a simple star should be the best affirmation
 Feel free to share this list with others!
 
 
-## VLN
+# VLN
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`RSS`|[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453)|[![Github stars](https://img.shields.io/github/stars/AnjieCheng/NaVILA.svg)](https://github.com/AnjieCheng/NaVILA)|[website](https://navila-bot.github.io/)|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
-|2024|`Transactions on Machine Learning Research`|[Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://openreview.net/pdf?id=yiqeh2ZYUh)|[![Github stars](https://img.shields.io/github/stars/zhangyuejoslin/VLN-Survey-with-Foundation-Models.svg)](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)|---|
 |2023|`NIPS`|[Frequency-enhanced data augmentation for vision-and-language navigation](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d9e08f247ca7fbbfd5e50b7ff9cf357-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/hekj/FDA.svg)](https://github.com/hekj/FDA)|---|
 |2023|`NIPS`|[Find what you want: Learning demand-conditioned object attribute space for demand-driven navigation](https://proceedings.neurips.cc/paper_files/paper/2023/file/34e278fbbd7d6d7d788c98065988e1a9-Paper-Conference.pdf)|[![Github stars](https://img.shields.io/github/stars/whcpumpkin/Demand-driven-navigation.svg)](https://github.com/whcpumpkin/Demand-driven-navigation)|[website](https://sites.google.com/view/demand-driven-navigation)|
 |2023|`ACL`|[Aerial vision-and-dialog navigation](https://arxiv.org/pdf/2205.12219)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation.svg)](https://github.com/eric-ai-lab/Aerial-Vision-and-Dialog-Navigation)|[website](https://sites.google.com/view/aerial-vision-and-dialog/home)| 
-|2022|`ACL`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
 |2021|`NIPS`|[History aware multimodal transformer for vision-and-language navigation](https://proceedings.neurips.cc/paper/2021/file/2e5c2cb8d13e8fba78d95211440ba326-Paper.pdf)|[![Github stars](https://img.shields.io/github/stars/cshizhe/VLN-HAMT.svg)](https://github.com/cshizhe/VLN-HAMT)|[website](https://cshizhe.github.io/projects/vln_hamt.html)|
 |2021|`CVPR`|[Room-and-object aware knowledge reasoning for remote embodied referring expression](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Room-and-Object_Aware_Knowledge_Reasoning_for_Remote_Embodied_Referring_Expression_CVPR_2021_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/alloldman/CKR.svg)](https://github.com/alloldman/CKR)|---|
 |2021|`ICCV`|[Vision-language navigation with random environmental mixup](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Vision-Language_Navigation_With_Random_Environmental_Mixup_ICCV_2021_paper.pdf)|---|---|
@@ -41,7 +39,7 @@ Feel free to share this list with others!
 |2018|`RSS`|[Following high-level navigation instructions on a simulated quadcopter with imitation learning](https://arxiv.org/pdf/1806.00047)|[![Github stars](https://img.shields.io/github/stars/lil-lab/gsmn.svg)](https://github.com/lil-lab/gsmn)|---|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/peteanderson80/Matterport3DSimulator.svg)](https://github.com/peteanderson80/Matterport3DSimulator)|R2R<br>[website](https://bringmeaspoon.org/)|
 
-# Simulator and Dataset
+## Simulator and Dataset
 
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -56,6 +54,18 @@ Feel free to share this list with others!
 |2019|`EMNLP-IJCNLP`|[Help, Anna! Visual Navigation with Natural Multimodal Assistance via Retrospective Curiosity-Encouraging Imitation Learning](https://arxiv.org/pdf/1909.01871)|[![Github stars](https://img.shields.io/github/stars/khanhptnk/hanna.svg)](https://github.com/khanhptnk/hanna)|HANNA|
 |2019|`ACL`|[Stay on the path: Instruction fidelity in vision-and-language navigation](https://arxiv.org/pdf/1905.12255)|---|R4R<br>[website](https://github.com/google-research/google-research/tree/master/r4r)|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|---|R2R<br>[website](https://bringmeaspoon.org/)|
+
+
+## Survey Paper
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2024|`Transactions on Machine Learning Research`|[Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://openreview.net/pdf?id=yiqeh2ZYUh)|[![Github stars](https://img.shields.io/github/stars/zhangyuejoslin/VLN-Survey-with-Foundation-Models.svg)](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)|---|
+|2023|`Artificial Intelligence Review`|[Visual language navigation: A survey and open challenges](https://link.springer.com/article/10.1007/s10462-022-10174-9)|---|---|
+|2022|`ACL`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
+
+
 
 <!-- 
 
