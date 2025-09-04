@@ -81,6 +81,15 @@ Feel free to share this list with others!
 
 -->
 
+
+# Others
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
+|2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
+
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -96,7 +105,7 @@ Feel free to share this list with others!
 |2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
 
 
-# Occupancy Perception
+## Occupancy Perception
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
@@ -107,11 +116,4 @@ Feel free to share this list with others!
 |2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
 
-# Others
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
-|2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
 
