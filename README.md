@@ -41,34 +41,6 @@ Feel free to share this list with others!
 |2018|`RSS`|[Following high-level navigation instructions on a simulated quadcopter with imitation learning](https://arxiv.org/pdf/1806.00047)|[![Github stars](https://img.shields.io/github/stars/lil-lab/gsmn.svg)](https://github.com/lil-lab/gsmn)|---|
 |2018|`CVPR`|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/peteanderson80/Matterport3DSimulator.svg)](https://github.com/peteanderson80/Matterport3DSimulator)|R2R<br>[website](https://bringmeaspoon.org/)|
 
-
-
-## Learning-based Navigation
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`RSS`|[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/fdm.svg)](https://github.com/leggedrobotics/fdm)|[website](https://leggedrobotics.github.io/fdm.github.io/)|
-|2025|`arXiv`|[Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning](https://arxiv.org/pdf/2505.11164)|---|---|
-|2025|`CoRL`|[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/pdf/2505.19214)|[![Github stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception.svg)](https://github.com/aCodeDog/OmniPerception)|---|
-|2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
-|2024|`RAL`|[PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678805)|---|---| 
-|2024|`ICRA`|[Extreme Parkour with Legged Robots](https://arxiv.org/pdf/2309.14341)|[![Github stars](https://img.shields.io/github/stars/chengxuxin/extreme-parkour.svg)](https://github.com/chengxuxin/extreme-parkour)|[website](https://extreme-parkour.github.io/)| 
-|2023|`ICRA`|[ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/pdf/2210.14791)|[![Github stars](https://img.shields.io/github/stars/SimarKareer/ViNL.svg)](https://github.com/SimarKareer/ViNL)|[website](https://www.joannetruong.com/projects/vinl.html)|
-|2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
-
-
-# Occupancy Perception
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/Humanoid-Occupancy.svg)](https://github.com/Open-X-Humanoid/Humanoid-Occupancy)|[website](https://humanoid-occupancy.github.io/)<br>Multimodal Occupancy Perception| 
-|2025|`arXiv`|[Roboocc: Enhancing the geometric and semantic scene understanding for robots](https://arxiv.org/pdf/2504.14604)|---|3DGS|
-|2025|`ICCV`|[EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding](https://arxiv.org/pdf/2412.04380)|[![Github stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc.svg)](https://github.com/YkiWu/EmbodiedOcc)|[website](https://ykiwu.github.io/EmbodiedOcc/)|
-|2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
-
-
 # Simulator and Dataset
 
 <!-- |---|`arXiv`|---|---|---| -->
@@ -97,6 +69,32 @@ Feel free to share this list with others!
 |Matterport3DSimulator|R2R, R4R, REVERIE, SOON|---|
 |Habitat|VLN-CE|[website](https://aihabitat.org/)|---|
 |AirSim|AerialVLN|[website](https://github.com/microsoft/AirSim)|---|
+
+
+## Learning-based Navigation
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/fdm.svg)](https://github.com/leggedrobotics/fdm)|[website](https://leggedrobotics.github.io/fdm.github.io/)|
+|2025|`arXiv`|[Parkour in the Wild: Learning a General and Extensible Agile Locomotion Policy Using Multi-expert Distillation and RL Fine-tuning](https://arxiv.org/pdf/2505.11164)|---|---|
+|2025|`CoRL`|[Omni-Perception: Omnidirectional Collision Avoidance for Legged Locomotion in Dynamic Environments](https://arxiv.org/pdf/2505.19214)|[![Github stars](https://img.shields.io/github/stars/aCodeDog/OmniPerception.svg)](https://github.com/aCodeDog/OmniPerception)|---|
+|2024|`SRO`|[Learning Robust Autonomous Navigation and Locomotion for Wheeled-Legged Robots](https://arxiv.org/pdf/2405.01792)|---|---| 
+|2024|`RAL`|[PIE: Parkour With Implicit-Explicit Learning Framework for Legged Robots](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10678805)|---|---| 
+|2024|`ICRA`|[Extreme Parkour with Legged Robots](https://arxiv.org/pdf/2309.14341)|[![Github stars](https://img.shields.io/github/stars/chengxuxin/extreme-parkour.svg)](https://github.com/chengxuxin/extreme-parkour)|[website](https://extreme-parkour.github.io/)| 
+|2023|`ICRA`|[ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/pdf/2210.14791)|[![Github stars](https://img.shields.io/github/stars/SimarKareer/ViNL.svg)](https://github.com/SimarKareer/ViNL)|[website](https://www.joannetruong.com/projects/vinl.html)|
+|2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
+
+
+# Occupancy Perception
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Humanoid Occupancy: Enabling A Generalized Multimodal Occupancy Perception System on Humanoid Robots](https://arxiv.org/pdf/2507.20217)|[![Github stars](https://img.shields.io/github/stars/Open-X-Humanoid/Humanoid-Occupancy.svg)](https://github.com/Open-X-Humanoid/Humanoid-Occupancy)|[website](https://humanoid-occupancy.github.io/)<br>Multimodal Occupancy Perception| 
+|2025|`arXiv`|[Roboocc: Enhancing the geometric and semantic scene understanding for robots](https://arxiv.org/pdf/2504.14604)|---|3DGS|
+|2025|`ICCV`|[EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding](https://arxiv.org/pdf/2412.04380)|[![Github stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc.svg)](https://github.com/YkiWu/EmbodiedOcc)|[website](https://ykiwu.github.io/EmbodiedOcc/)|
+|2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
 
 # Others
