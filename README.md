@@ -121,6 +121,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886?)|---|---|
 |2024|`Transactions on Machine Learning Research`|[Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://openreview.net/pdf?id=yiqeh2ZYUh)|[![Github stars](https://img.shields.io/github/stars/zhangyuejoslin/VLN-Survey-with-Foundation-Models.svg)](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)|[blog](https://kwanwaipang.github.io/VLNsurvery2024/)|
 |2024|`arXiv`|[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/pdf/2405.14093)|[![Github stars](https://img.shields.io/github/stars/yueen-ma/Awesome-VLA.svg)](https://github.com/yueen-ma/Awesome-VLA)|Survey for VLA|
 |2024|`Neural Computing and Applications`|[Vision-language navigation: a survey and taxonomy](https://arxiv.org/pdf/2108.11544)|---|---|
