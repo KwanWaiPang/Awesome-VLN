@@ -122,6 +122,7 @@ Feel free to share this list with others!
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2024|`Transactions on Machine Learning Research`|[Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models](https://openreview.net/pdf?id=yiqeh2ZYUh)|[![Github stars](https://img.shields.io/github/stars/zhangyuejoslin/VLN-Survey-with-Foundation-Models.svg)](https://github.com/zhangyuejoslin/VLN-Survey-with-Foundation-Models)|[blog](https://kwanwaipang.github.io/VLNsurvery2024/)|
+|2024|`arXiv`|[A Survey on Vision-Language-Action Models for Embodied AI](https://arxiv.org/pdf/2405.14093)|[![Github stars](https://img.shields.io/github/stars/yueen-ma/Awesome-VLA.svg)](https://github.com/yueen-ma/Awesome-VLA)|Survey for VLA|
 |2024|`Neural Computing and Applications`|[Vision-language navigation: a survey and taxonomy](https://arxiv.org/pdf/2108.11544)|---|---|
 |2023|`Artificial Intelligence Review`|[Visual language navigation: A survey and open challenges](https://link.springer.com/article/10.1007/s10462-022-10174-9)|---|---|
 |2022|`ACL`|[Vision-and-language navigation: A survey of tasks, methods, and future directions](https://arxiv.org/pdf/2203.12667)|[![Github stars](https://img.shields.io/github/stars/eric-ai-lab/awesome-vision-language-navigation.svg)](https://github.com/eric-ai-lab/awesome-vision-language-navigation)|---|
