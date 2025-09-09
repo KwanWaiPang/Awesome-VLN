@@ -20,6 +20,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224)|[![Github stars](https://img.shields.io/github/stars/jzhzhang/Uni-NaVid.svg)](https://github.com/jzhzhang/Uni-NaVid)|[website](https://pku-epic.github.io/Uni-NaVid/)|
 |2025|`RSS`|[NaVILA: Legged Robot Vision-Language-Action Model for Navigation](https://arxiv.org/pdf/2412.04453)|[![Github stars](https://img.shields.io/github/stars/AnjieCheng/NaVILA.svg)](https://github.com/AnjieCheng/NaVILA)|[website](https://navila-bot.github.io/)|
 |2025|`ICCV`|[Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation](https://arxiv.org/pdf/2507.04047)|[![Github stars](https://img.shields.io/github/stars/MTU3D/MTU3D.svg)](https://github.com/MTU3D/MTU3D)|[website](https://mtu3d.github.io/)| 
 | 2025 | `ACL` | [MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation](https://arxiv.org/pdf/2502.13451) |---|---|
@@ -153,13 +154,6 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
 |2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
-
-## VLA
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`RSS`|[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224)|[![Github stars](https://img.shields.io/github/stars/jzhzhang/Uni-NaVid.svg)](https://github.com/jzhzhang/Uni-NaVid)|[website](https://pku-epic.github.io/Uni-NaVid/)|
 
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
