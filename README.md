@@ -159,7 +159,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`RSS`|[Uni-: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224)|[![Github stars](https://img.shields.io/github/stars/jzhzhang/Uni-NaVid.svg)](https://github.com/jzhzhang/Uni-NaVid)|[website](https://pku-epic.github.io/Uni-NaVid/)|
+|2025|`RSS`|[Uni-NaVid: A Video-based Vision-Language-Action Model for Unifying Embodied Navigation Tasks](https://arxiv.org/pdf/2412.06224)|[![Github stars](https://img.shields.io/github/stars/jzhzhang/Uni-NaVid.svg)](https://github.com/jzhzhang/Uni-NaVid)|[website](https://pku-epic.github.io/Uni-NaVid/)|
 
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
