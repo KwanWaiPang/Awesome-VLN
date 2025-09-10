@@ -96,7 +96,7 @@ Feel free to share this list with others!
 | 2020 | `ECCV` | [Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments](https://arxiv.org/abs/2004.02857) | [![Github stars](https://img.shields.io/github/stars/jacobkrantz/VLN-CE.svg)](https://github.com/jacobkrantz/VLN-CE) |---|
 |2019|`EMNLP`|[Robust navigation with language pretraining and stochastic sampling](https://arxiv.org/pdf/1909.02244)|[![Github stars](https://img.shields.io/github/stars/xjli/r2r_vln.svg)](https://github.com/xjli/r2r_vln)|---|
 |2019|`CoRL`|[Learning to Map Natural Language Instructions to Physical Quadcopter Control using Simulated Flight](https://arxiv.org/pdf/1910.09664)|[![Github stars](https://img.shields.io/github/stars/lil-lab/drif.svg)](https://github.com/lil-lab/drif)|---|
-|2018|`NIPS`|[Speaker-follower models for vision-and-language navigation](https://proceedings.neurips.cc/paper/2018/file/6a81681a7af700c6385d36577ebec359-Paper.pdf)|[![Github stars](https://img.shields.io/github/stars/ronghanghu/speaker_follower.svg)](https://github.com/ronghanghu/speaker_follower)|[website](https://ronghanghu.com/speaker_follower/)|
+|2018|`NIPS`|[Speaker-follower models for vision-and-language navigation](https://arxiv.org/pdf/1806.02724)|[![Github stars](https://img.shields.io/github/stars/ronghanghu/speaker_follower.svg)](https://github.com/ronghanghu/speaker_follower)|[website](https://ronghanghu.com/speaker_follower/)|
 |2018|`RSS`|[Following high-level navigation instructions on a simulated quadcopter with imitation learning](https://arxiv.org/pdf/1806.00047)|[![Github stars](https://img.shields.io/github/stars/lil-lab/gsmn.svg)](https://github.com/lil-lab/gsmn)|---|
 
 ## Simulator and Dataset
