@@ -154,7 +154,7 @@ Feel free to share this list with others!
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
 |2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
-|2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|---|
+|2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|CLIP|
 
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
