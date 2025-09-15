@@ -158,6 +158,18 @@ Feel free to share this list with others!
 |2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
 |2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|CLIP<br>[website](https://openai.com/index/clip/)|
 
+
+
+## VLA
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|---|
+
+
+
+
 ## Learning-based Navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
