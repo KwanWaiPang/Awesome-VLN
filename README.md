@@ -177,7 +177,6 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)|[website](https://amrl.cs.utexas.edu/creste/)|
 |2025|`arXiv`|[LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/pdf/2507.06747?)|[![Github stars](https://img.shields.io/github/stars/DaojiePENG/LOVON.svg)](https://github.com/DaojiePENG/LOVON)|[website](https://daojiepeng.github.io/LOVON/)|
 |2025|`ICRA`|[TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals](https://arxiv.org/pdf/2509.08699)|[![Github stars](https://img.shields.io/github/stars/podgorki/TANGO.svg)](https://github.com/podgorki/TANGO)|[website](https://podgorki.github.io/TANGO/)|
 |2025|`RSS`|[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/fdm.svg)](https://github.com/leggedrobotics/fdm)|[website](https://leggedrobotics.github.io/fdm.github.io/)|
@@ -192,6 +191,13 @@ Feel free to share this list with others!
 |2023|`ICRA`|[ViNL: Visual Navigation and Locomotion Over Obstacles](https://arxiv.org/pdf/2210.14791)|[![Github stars](https://img.shields.io/github/stars/SimarKareer/ViNL.svg)](https://github.com/SimarKareer/ViNL)|[website](https://www.joannetruong.com/projects/vinl.html)|
 |2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
 
+
+## Mapless navigation
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)|[website](https://amrl.cs.utexas.edu/creste/)|
 
 ## Occupancy Perception
 <!-- |---|`arXiv`|---|---|---| -->
