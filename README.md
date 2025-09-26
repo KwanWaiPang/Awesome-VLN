@@ -182,7 +182,7 @@ or Image-goal Navigation, or object-goal navigation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](https://arxiv.org/pdf/2508.00823)|[![Github stars](https://img.shields.io/github/stars/GWxuan/IGL-Nav.svg)](https://github.com/GWxuan/IGL-Nav)|[website](https://gwxuan.github.io/IGL-Nav/)|
+|2025|`arXiv`|[IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](https://arxiv.org/pdf/2508.00823)|[![Github stars](https://img.shields.io/github/stars/GWxuan/IGL-Nav.svg)](https://github.com/GWxuan/IGL-Nav)|[website](https://gwxuan.github.io/IGL-Nav/)<br>Exploration+target matching|
 |2025|`arXiv`|[LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/pdf/2507.06747?)|[![Github stars](https://img.shields.io/github/stars/DaojiePENG/LOVON.svg)](https://github.com/DaojiePENG/LOVON)|[website](https://daojiepeng.github.io/LOVON/)|
 |2025|`ICRA`|[TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals](https://arxiv.org/pdf/2509.08699)|[![Github stars](https://img.shields.io/github/stars/podgorki/TANGO.svg)](https://github.com/podgorki/TANGO)|[website](https://podgorki.github.io/TANGO/)|
 |2025|`RSS`|[Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation](https://arxiv.org/pdf/2504.19322)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/fdm.svg)](https://github.com/leggedrobotics/fdm)|[website](https://leggedrobotics.github.io/fdm.github.io/)|
