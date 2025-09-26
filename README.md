@@ -177,7 +177,7 @@ Vision-Language-Action
 
 
 ## Learning-based Navigation
-or Image-goal Navigation
+or Image-goal Navigation, or object-goal navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
