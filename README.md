@@ -171,6 +171,7 @@ Vision-Language-Action
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
 |2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|---|
 |2022|`arXiv`|[Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/pdf/2212.06817)|[![Github stars](https://img.shields.io/github/stars/google-research/robotics_transformer.svg)](https://github.com/google-research/robotics_transformer)|[website](https://robotics-transformer1.github.io/)<br>[Blog](https://research.google/blog/rt-1-robotics-transformer-for-real-world-control-at-scale/)|
 
