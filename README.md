@@ -21,6 +21,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/pdf/2509.10454)|[![Github stars](https://img.shields.io/github/stars/bagh2178/GC-VLN.svg)](https://github.com/bagh2178/GC-VLN)|[Website](https://bagh2178.github.io/GC-VLN/)|
 |2025|`arXiv`|[Boosting Zero-Shot VLN via Abstract Obstacle Map-Based Waypoint Prediction with TopoGraph-and-VisitInfo-Aware Prompting](https://arxiv.org/pdf/2509.20499)|---|---|
 |2025|`arXiv`|[SLAM-Free Visual Navigation with Hierarchical Vision-Language Perception and Coarse-to-Fine Semantic Topological Planning](https://arxiv.org/pdf/2509.20739)|---|---|
 |2025|`arXiv`|[Zero-shot Object-Centric Instruction Following: Integrating Foundation Models with Traditional Navigation](https://arxiv.org/pdf/2411.07848)|---|[website](https://sonia-raychaudhuri.github.io/nlslam/)| 
