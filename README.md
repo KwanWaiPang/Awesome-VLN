@@ -194,6 +194,7 @@ or Image-goal Navigation, or object-goal navigation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction](https://www.arxiv.org/pdf/2510.07152)|---|---|
 |2025|`arXiv`|[IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation](https://arxiv.org/pdf/2508.00823)|[![Github stars](https://img.shields.io/github/stars/GWxuan/IGL-Nav.svg)](https://github.com/GWxuan/IGL-Nav)|[website](https://gwxuan.github.io/IGL-Nav/)<br>Exploration+target matching|
 |2025|`arXiv`|[LOVON: Legged Open-Vocabulary Object Navigator](https://arxiv.org/pdf/2507.06747?)|[![Github stars](https://img.shields.io/github/stars/DaojiePENG/LOVON.svg)](https://github.com/DaojiePENG/LOVON)|[website](https://daojiepeng.github.io/LOVON/)|
 |2025|`ICRA`|[TANGO: Traversability-Aware Navigation with Local Metric Control for Topological Goals](https://arxiv.org/pdf/2509.08699)|[![Github stars](https://img.shields.io/github/stars/podgorki/TANGO.svg)](https://github.com/podgorki/TANGO)|[website](https://podgorki.github.io/TANGO/)|
@@ -210,14 +211,14 @@ or Image-goal Navigation, or object-goal navigation
 |2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
 
 
-## Mapless navigation
+### Mapless navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)|[website](https://amrl.cs.utexas.edu/creste/)|
 
-## Occupancy Perception
+### Occupancy Perception
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
