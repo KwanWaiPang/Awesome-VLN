@@ -179,6 +179,7 @@ Vision-Language-Action
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation](https://arxiv.org/pdf/2509.21006)|[![Github stars](https://img.shields.io/github/stars/SelfAI-research/AnywhereVLA.svg)](https://github.com/SelfAI-research/AnywhereVLA)|[website](https://selfai-research.github.io/AnywhereVLA/)|
+|2025|`arXiv`|[Hi robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417)|---|[Website](https://www.pi.website/research/hirobot)|
 |2025|`arXiv`|[Fast: Efficient action tokenization for vision-language-action models](https://arxiv.org/pdf/2501.09747)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Website](https://www.pi.website/research/fast)<br>PI0-Fast|
 |2025|`arXiv`|[Agibot world colosseo: A large-scale manipulation platform for scalable and intelligent embodied systems](https://arxiv.org/pdf/2503.06669)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World.svg)](https://github.com/OpenDriveLab/AgiBot-World)|---|
 |2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
