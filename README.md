@@ -186,6 +186,7 @@ Vision-Language-Action
 |2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|---|
 |2024|`RSS`|[Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/pdf/2405.12213)|[![Github stars](https://img.shields.io/github/stars/octo-models/octo.svg)](https://github.com/octo-models/octo)|[Website](https://octo-models.github.io/)|
 |2024|`CoRR`|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)|---|[Blog](https://physicalintelligence.company/blog/pi0)<br>PI0|
+|2023|`CoRL`|[Rt-2: Vision-language-action models transfer web knowledge to robotic control](https://robotics-transformer2.github.io/assets/rt2.pdf)|---|[Website](https://robotics-transformer2.github.io/)|
 |2023|`RSS`|[Learning fine-grained bimanual manipulation with low-cost hardware](https://arxiv.org/pdf/2304.13705)|[![Github stars](https://img.shields.io/github/stars/tonyzhaozh/act.svg)](https://github.com/tonyzhaozh/act)|[Website](https://tonyzhaozh.github.io/aloha/)<br>ALOHA/ACT|
 |2022|`arXiv`|[Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/pdf/2212.06817)|[![Github stars](https://img.shields.io/github/stars/google-research/robotics_transformer.svg)](https://github.com/google-research/robotics_transformer)|[website](https://robotics-transformer1.github.io/)<br>[Blog](https://research.google/blog/rt-1-robotics-transformer-for-real-world-control-at-scale/)|
 
