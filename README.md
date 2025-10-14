@@ -178,6 +178,7 @@ Vision-Language-Action
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[InternVLA-M1: Latent Spatial Grounding for Instruction-Following Robotic Manipulation](https://github.com/InternRobotics/InternVLA-M1/blob/InternVLA-M1/assets/InternVLA_M1.pdf)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternVLA-M1.svg)](https://github.com/InternRobotics/InternVLA-M1)|[Website](https://internrobotics.github.io/internvla-m1.github.io/)|
 |2025|`arXiv`|[AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation](https://arxiv.org/pdf/2509.21006)|[![Github stars](https://img.shields.io/github/stars/SelfAI-research/AnywhereVLA.svg)](https://github.com/SelfAI-research/AnywhereVLA)|[website](https://selfai-research.github.io/AnywhereVLA/)|
 |2025|`arXiv`|[Hi robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417)|---|[Website](https://www.pi.website/research/hirobot)|
 |2025|`arXiv`|[Fast: Efficient action tokenization for vision-language-action models](https://arxiv.org/pdf/2501.09747)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Website](https://www.pi.website/research/fast)<br>PI0-Fast|
