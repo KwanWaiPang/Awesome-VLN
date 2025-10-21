@@ -17,9 +17,12 @@ Feel free to share this list with others!
 
 # Overview
 - [VLN](#VLN)
-  - [Simulator and Dataset](#Simulator-and-Dataset) 
-
-
+  - [Simulator and Dataset](#Simulator-and-Dataset)
+  - [Survey Paper](#Survey-Paper)
+- [VLA](#VLA)
+- [Learning-based Navigation](#Learning-based-Navigation)
+  - [Mapless navigation](#Mapless-navigation) 
+- [Others](#Others)
 
 # VLN
 <!-- |---|`arXiv`|---|---|---| -->
@@ -164,18 +167,9 @@ Feel free to share this list with others!
 -->
 
 
-# Others
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
-|2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
-|2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|CLIP<br>[website](https://openai.com/index/clip/)|
 
 
-
-## VLA
+# VLA
 
 Vision-Language-Action
 
@@ -202,7 +196,7 @@ Vision-Language-Action
 
 
 
-## Learning-based Navigation
+# Learning-based Navigation
 or Image-goal Navigation, or object-goal navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
@@ -225,14 +219,24 @@ or Image-goal Navigation, or object-goal navigation
 |2023|`Field Robotics`|[ArtPlanner: Robust Legged Robot Navigation in the Field](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10876046)|[![Github stars](https://img.shields.io/github/stars/leggedrobotics/art_planner.svg)](https://github.com/leggedrobotics/art_planner)|---|
 
 
-### Mapless navigation
+## Mapless navigation
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)|[website](https://amrl.cs.utexas.edu/creste/)|
 
-### Occupancy Perception
+
+# Others
+<!-- |---|`arXiv`|---|---|---| -->
+<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
+| Year | Venue | Paper Title | Repository | Note |
+|:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
+|2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
+|2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|CLIP<br>[website](https://openai.com/index/clip/)|
+
+## Occupancy Perception
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
