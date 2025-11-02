@@ -178,6 +178,7 @@ Vision-Language-Action
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
+|2025|`arXiv`|[Smolvla: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)|---|---|
 |2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|---| 
 |2025|`CoRL`|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://openreview.net/pdf?id=vlhoswksBO)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://www.pi.website/blog/pi05)<br>PI0.5|
 |2025|`arXiv`|[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)|---|---|
