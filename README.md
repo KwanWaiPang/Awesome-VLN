@@ -177,6 +177,7 @@ Vision-Language-Action
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|---|
 |2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
 |2025|`arXiv`|[Smolvla: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)|---|---|
 |2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|---| 
