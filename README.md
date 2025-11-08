@@ -5,7 +5,7 @@
 </p>
 
 This repository contains a curated list of resources addressing the VLN (Visual Language Navigation).
-Additionally, it includes related papers from areas such as VLA and Learning-based Navigation, etc.
+Additionally, it includes related papers from areas such as Learning-based Navigation, etc.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-VLN/issues/new)**. 
 
@@ -19,7 +19,6 @@ Feel free to share this list with others!
 - [VLN](#VLN)
   - [Simulator and Dataset](#Simulator-and-Dataset)
   - [Survey Paper](#Survey-Paper)
-- [VLA](#VLA)
 - [Learning-based Navigation](#Learning-based-Navigation)
   - [Mapless navigation](#Mapless-navigation) 
 - [Others](#Others)
@@ -165,37 +164,6 @@ Feel free to share this list with others!
 |AirSim|AerialVLN|[website](https://github.com/microsoft/AirSim)|---|
 
 -->
-
-
-
-
-# VLA
-
-Vision-Language-Action
-
-<!-- |---|`arXiv`|---|---|---| -->
-<!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
-| Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[Running VLAs at Real-time Speed](https://arxiv.org/pdf/2510.26742)|[![Github stars](https://img.shields.io/github/stars/Dexmal/realtime-vla.svg)](https://github.com/Dexmal/realtime-vla)|---|
-|2025|`arXiv`|[NanoVLA: Routing Decoupled Vision-Language Understanding for Nano-sized Generalist Robotic Policies](https://arxiv.org/pdf/2510.25122v1)|---|---|
-|2025|`arXiv`|[Smolvla: A vision-language-action model for affordable and efficient robotics](https://arxiv.org/pdf/2506.01844)|---|---|
-|2025|`arXiv`|[Efficient Vision-Language-Action Models for Embodied Manipulation: A Systematic Survey](https://arxiv.org/pdf/2510.17111)|[![Github stars](https://img.shields.io/github/stars/guanweifan/awesome-efficient-vla.svg)](https://github.com/guanweifan/awesome-efficient-vla)|---| 
-|2025|`CoRL`|[π0.5: a Vision-Language-Action Model with Open-World Generalization](https://openreview.net/pdf?id=vlhoswksBO)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://www.pi.website/blog/pi05)<br>PI0.5|
-|2025|`arXiv`|[Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)|---|---|
-|2025|`arXiv`|[InternVLA-M1: Latent Spatial Grounding for Instruction-Following Robotic Manipulation](https://arxiv.org/pdf/2510.13778)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternVLA-M1.svg)](https://github.com/InternRobotics/InternVLA-M1)|[Website](https://internrobotics.github.io/internvla-m1.github.io/)|
-|2025|`arXiv`|[AnywhereVLA: Language-Conditioned Exploration and Mobile Manipulation](https://arxiv.org/pdf/2509.21006)|[![Github stars](https://img.shields.io/github/stars/SelfAI-research/AnywhereVLA.svg)](https://github.com/SelfAI-research/AnywhereVLA)|[website](https://selfai-research.github.io/AnywhereVLA/)|
-|2025|`arXiv`|[Hi robot: Open-ended instruction following with hierarchical vision-language-action models](https://arxiv.org/pdf/2502.19417)|---|[Website](https://www.pi.website/research/hirobot)|
-|2025|`arXiv`|[Fast: Efficient action tokenization for vision-language-action models](https://arxiv.org/pdf/2501.09747)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Website](https://www.pi.website/research/fast)<br>PI0-Fast|
-|2025|`arXiv`|[Agibot world colosseo: A large-scale manipulation platform for scalable and intelligent embodied systems](https://arxiv.org/pdf/2503.06669)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/AgiBot-World.svg)](https://github.com/OpenDriveLab/AgiBot-World)|---|
-|2025|`arXiv`|[A Survey on Vision-Language-Action Models: An Action Tokenization Perspective](https://arxiv.org/pdf/2507.01925)|[![Github stars](https://img.shields.io/github/stars/Psi-Robot/Awesome-VLA-Papers.svg)](https://github.com/Psi-Robot/Awesome-VLA-Papers)|---|
-|2025|`arXiv`|[Vision-language-action models: Concepts, progress, applications and challenges](https://arxiv.org/pdf/2505.04769?)|---|---|
-|2025|`CoRL`|[OpenVLA: An Open-Source Vision-Language-Action Model](https://arxiv.org/pdf/2406.09246?)|[![Github stars](https://img.shields.io/github/stars/openvla/openvla.svg)](https://github.com/openvla/openvla)|[Website](https://openvla.github.io/)| 
-|2024|`RSS`|[Octo: An Open-Source Generalist Robot Policy](https://arxiv.org/pdf/2405.12213)|[![Github stars](https://img.shields.io/github/stars/octo-models/octo.svg)](https://github.com/octo-models/octo)|[Website](https://octo-models.github.io/)|
-|2024|`CoRR`|[π0: A Vision-Language-Action Flow Model for General Robot Control](https://arxiv.org/pdf/2410.24164)|[![Github stars](https://img.shields.io/github/stars/Physical-Intelligence/openpi.svg)](https://github.com/Physical-Intelligence/openpi)|[Blog](https://physicalintelligence.company/blog/pi0)<br>PI0|
-|2023|`CoRL`|[Rt-2: Vision-language-action models transfer web knowledge to robotic control](https://robotics-transformer2.github.io/assets/rt2.pdf)|---|[Website](https://robotics-transformer2.github.io/)|
-|2023|`RSS`|[Learning fine-grained bimanual manipulation with low-cost hardware](https://arxiv.org/pdf/2304.13705)|[![Github stars](https://img.shields.io/github/stars/tonyzhaozh/act.svg)](https://github.com/tonyzhaozh/act)|[Website](https://tonyzhaozh.github.io/aloha/)<br>ALOHA/ACT|
-|2022|`arXiv`|[Rt-1: Robotics transformer for real-world control at scale](https://arxiv.org/pdf/2212.06817)|[![Github stars](https://img.shields.io/github/stars/google-research/robotics_transformer.svg)](https://github.com/google-research/robotics_transformer)|[website](https://robotics-transformer1.github.io/)<br>[Blog](https://research.google/blog/rt-1-robotics-transformer-for-real-world-control-at-scale/)|
 
 
 
