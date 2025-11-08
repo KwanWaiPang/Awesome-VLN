@@ -22,6 +22,8 @@ Feel free to share this list with others!
 - [Learning-based Navigation](#Learning-based-Navigation)
   - [Mapless navigation](#Mapless-navigation) 
 - [Others](#Others)
+  - [Occupancy Perception](#Occupancy-Perception)
+  - [VLA](#VLA)
 
 # VLN
 <!-- |---|`arXiv`|---|---|---| -->
@@ -218,5 +220,7 @@ or Image-goal Navigation, or object-goal navigation
 |2025|`ICCV`|[EmbodiedOcc: Embodied 3D Occupancy Prediction for Vision-based Online Scene Understanding](https://arxiv.org/pdf/2412.04380)|[![Github stars](https://img.shields.io/github/stars/YkiWu/EmbodiedOcc.svg)](https://github.com/YkiWu/EmbodiedOcc)|[website](https://ykiwu.github.io/EmbodiedOcc/)|
 |2023|`ICCV`|[Scene as occupancy](https://openaccess.thecvf.com/content/ICCV2023/papers/Tong_Scene_as_Occupancy_ICCV_2023_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenDriveLab/OccNet.svg)](https://github.com/OpenDriveLab/OccNet)|[Challenge and dataset](https://github.com/OpenDriveLab/OpenScene)|
 
+## VLA
+* Paper List for [VLA (Visual Language Action)](https://github.com/KwanWaiPang/Awesome-VLA)
 
 
