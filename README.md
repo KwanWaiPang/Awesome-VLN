@@ -30,6 +30,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation](https://arxiv.org/pdf/2509.18592?)|[![Github stars](https://img.shields.io/github/stars/VLN-Zero/vln-zero.github.io.svg)](https://github.com/VLN-Zero/vln-zero.github.io)|[website](https://vln-zero.github.io/)|
 |2025|`arXiv`|[JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation](https://arxiv.org/pdf/2509.22548)|[![Github stars](https://img.shields.io/github/stars/MIV-XJTU/JanusVLN.svg)](https://github.com/MIV-XJTU/JanusVLN)|[Website](https://miv-xjtu.github.io/JanusVLN.github.io/)|
 |2025|`arXiv`|[Streamvln: Streaming vision-and-language navigation via slowfast context modeling](https://arxiv.org/pdf/2507.05240)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/StreamVLN.svg)](https://github.com/InternRobotics/StreamVLN)|[Website](https://streamvln.github.io/)|
 |2025|`arXiv`|[GC-VLN: Instruction as Graph Constraints for Training-free Vision-and-Language Navigation](https://arxiv.org/pdf/2509.10454)|[![Github stars](https://img.shields.io/github/stars/bagh2178/GC-VLN.svg)](https://github.com/bagh2178/GC-VLN)|[Website](https://bagh2178.github.io/GC-VLN/)|
