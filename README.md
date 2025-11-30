@@ -30,6 +30,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[InternVLA-N1: An Open Dual-System Vision-Language Navigation Foundation Model with Learned Latent Plans](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternNav.svg)](https://github.com/InternRobotics/InternNav) |[website](https://internrobotics.github.io/internvla-n1.github.io/)|
 |2025|`arXiv`|[Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks](https://arxiv.org/pdf/2508.08240)|---|[website](https://kaijwang.github.io/odyssey.github.io/)|
 |2025|`arXiv`|[OpenVLN: Open-world aerial Vision-Language Navigation](https://arxiv.org/pdf/2511.06182)|---|---|
 |2025|`arXiv`|[VLN-Zero: Rapid Exploration and Cache-Enabled Neurosymbolic Vision-Language Planning for Zero-Shot Transfer in Robot Navigation](https://arxiv.org/pdf/2509.18592?)|[![Github stars](https://img.shields.io/github/stars/VLN-Zero/vln-zero.github.io.svg)](https://github.com/VLN-Zero/vln-zero.github.io)|[website](https://vln-zero.github.io/)|
