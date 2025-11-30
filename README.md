@@ -30,6 +30,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation](https://arxiv.org/pdf/2510.08713)|[![Github stars](https://img.shields.io/github/stars/F1y1113/UniWM.svg)](https://github.com/F1y1113/UniWM)|---|
 |2025|`arXiv`|[Embodied navigation foundation model](https://arxiv.org/pdf/2509.12129)|---|[website](https://pku-epic.github.io/NavFoM-Web/)<br>NavFoM|
 |2025|`arXiv`|[InternVLA-N1: An Open Dual-System Vision-Language Navigation Foundation Model with Learned Latent Plans](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternNav.svg)](https://github.com/InternRobotics/InternNav) |[website](https://internrobotics.github.io/internvla-n1.github.io/)|
 |2025|`arXiv`|[Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks](https://arxiv.org/pdf/2508.08240)|---|[website](https://kaijwang.github.io/odyssey.github.io/)|
