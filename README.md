@@ -179,6 +179,7 @@ or Image-goal Navigation, or object-goal navigation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`|[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/NavDP.svg)](https://github.com/InternRobotics/NavDP)|[website](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)|
 |2025|`arXiv`|[MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](https://arxiv.org/pdf/2511.10376v2)|[![Github stars](https://img.shields.io/github/stars/ylwhxht/MSGNav.svg)](https://github.com/ylwhxht/MSGNav)|---|
 |2025|`arXiv`|[Adaptive Interactive Navigation of Quadruped Robots using Large Language Models](https://arxiv.org/pdf/2503.22942?)|---|[Video](https://www.youtube.com/watch?v=W5ttPnSap2g)|
 |2025|`arXiv`|[DPL: Depth-only Perceptive Humanoid Locomotion via Realistic Depth Synthesis and Cross-Attention Terrain Reconstruction](https://www.arxiv.org/pdf/2510.07152)|---|---|
