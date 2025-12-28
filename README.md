@@ -122,6 +122,7 @@ Feel free to share this list with others!
 |2018|`RSS`|[Following high-level navigation instructions on a simulated quadcopter with imitation learning](https://arxiv.org/pdf/1806.00047)|[![Github stars](https://img.shields.io/github/stars/lil-lab/gsmn.svg)](https://github.com/lil-lab/gsmn)|---|
 |2018|`CVPR`<br>Australian National University|[Vision-and-language navigation: Interpreting visually-grounded navigation instructions in real environments](https://openaccess.thecvf.com/content_cvpr_2018/papers/Anderson_Vision-and-Language_Navigation_Interpreting_CVPR_2018_paper.pdf)|[![Github stars](https://img.shields.io/github/stars/peteanderson80/Matterport3DSimulator.svg)](https://github.com/peteanderson80/Matterport3DSimulator)<br>[website](https://bringmeaspoon.org/)|第一篇提出VLN任务的论文(离散)；提出R2R数据集（Matterport3D，2W多条导航指令）；网络结构部分：语言采用的是基于LSTM的seqtoseq 结构和注意机制，图像则是用的ImageNet上预训练的ResNet-152 CNN；|
 
+<br><br><br>
 
 ## Simulator and Dataset
 
