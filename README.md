@@ -191,6 +191,7 @@ or Image-goal Navigation, or object-goal navigation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`TRO`|[Neupan: Direct point robot navigation with end-to-end model-based learning](https://arxiv.org/pdf/2403.06828)| [![Github stars](https://img.shields.io/github/stars/hanruihua/NeuPAN.svg)](https://github.com/hanruihua/NeuPAN)|[website](https://hanruihua.github.io/neupan_project/)|
 |2025|`arXiv`|[Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation](https://arxiv.org/pdf/2510.08713)|[![Github stars](https://img.shields.io/github/stars/F1y1113/UniWM.svg)](https://github.com/F1y1113/UniWM)|---|
 |2025|`arXiv`|[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/NavDP.svg)](https://github.com/InternRobotics/NavDP)|[website](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)|
 |2025|`arXiv`|[MSGNav: Unleashing the Power of Multi-modal 3D Scene Graph for Zero-Shot Embodied Navigation](https://arxiv.org/pdf/2511.10376v2)|[![Github stars](https://img.shields.io/github/stars/ylwhxht/MSGNav.svg)](https://github.com/ylwhxht/MSGNav)|---|
