@@ -29,8 +29,8 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`|[VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning](https://arxiv.org/pdf/2502.00931)|[website](https://sairlab.org/vlnav/)|---|
-|2025|`arXiv`|[Embodied navigation foundation model](https://arxiv.org/pdf/2509.12129)|[website](https://pku-epic.github.io/NavFoM-Web/)|NavFoM|
+|2025|`arXiv`<br> University at Buffalo|[VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning](https://arxiv.org/pdf/2502.00931)|[website](https://sairlab.org/vlnav/)|集成了空间推理，将视觉语言特征与探索相结合；Orin NX上实现30HZ频率（成功率86.3%）|
+|2025|`arXiv`<br>Peking University|[Embodied navigation foundation model](https://arxiv.org/pdf/2509.12129)|[website](https://pku-epic.github.io/NavFoM-Web/)|NavFoM|
 |2025|`arXiv`<br>Shanghai AI Laboratory|[InternVLA-N1: An Open Dual-System Vision-Language Navigation Foundation Model with Learned Latent Plans](https://internrobotics.github.io/internvla-n1.github.io/static/pdfs/InternVLA_N1.pdf)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/InternNav.svg)](https://github.com/InternRobotics/InternNav)<br> [website](https://internrobotics.github.io/internvla-n1.github.io/) |首个开源的基于双系统VLN模型:System 2 用于执行多轮的基于语言指令、观测（视角感知）的精确规划。而System1则是负责在真实世界环境下，执行System2输出的规划。其中，学习到的latent plans作为中间表示，来实现两个系统之间的交互;此外，提出InternData-N1导航数据集，包含了超过3000个场景的50 million的图像，一共4,839公里|
 |2025|`arXiv`|[Odyssey: Open-world quadrupeds exploration and manipulation for long-horizon tasks](https://arxiv.org/pdf/2508.08240)|[website](https://kaijwang.github.io/odyssey.github.io/)|---|
 |2025|`arXiv`|[OpenVLN: Open-world aerial Vision-Language Navigation](https://arxiv.org/pdf/2511.06182)|---|---|
