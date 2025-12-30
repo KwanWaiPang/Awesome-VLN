@@ -28,7 +28,7 @@ Feel free to share this list with others!
 <!-- |---|`arXiv`|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|----|
+|:----:|:-----:| ----------- |:----------:|-----------|
 |2025|`arXiv`<br>The University of Hong Kong|[VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.17221)| [![Github stars](https://img.shields.io/github/stars/Qi-Zhangyang/GPT4Scene-and-VLN-R1.svg)](https://github.com/Qi-Zhangyang/GPT4Scene-and-VLN-R1)<br>[website](https://vlnr1.github.io/)|---|
 |2025|`arXiv`<br>Peking University|[MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning](https://arxiv.org/pdf/2510.03142v1)|[website](https://pku-epic.github.io/MM-Nav-Web/)|训练多个RL专家（到达、挤压、躲避）并进行初始VLA微调，然后部署到仿真环境，再进行在线的教师-学生训练|
 |2025|ManifoldTechLtd|Odin-Nav-Stack|[![Github stars](https://img.shields.io/github/stars/ManifoldTechLtd/Odin-Nav-Stack.svg)](https://github.com/ManifoldTechLtd/Odin-Nav-Stack)<br>[website](https://manifoldtechltd.github.io/Odin-Nav-Stack-Webpage/)<br>[Reading](https://github.com/R-C-Group/Odin-Navigation-Stack)|（Modular learning approaches）SLAM+动态避障/Neupan(基于雷达点输入的端到端导航控制)+语义导航+场景描述|
