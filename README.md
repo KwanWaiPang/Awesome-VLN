@@ -29,6 +29,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|----|
+|2025|`arXiv`<br>The University of Hong Kong|[VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning](https://arxiv.org/pdf/2506.17221)|---|---|
 |2025|`arXiv`<br>Peking University|[MM-Nav: Multi-View VLA Model for Robust Visual Navigation via Multi-Expert Learning](https://arxiv.org/pdf/2510.03142v1)|[website](https://pku-epic.github.io/MM-Nav-Web/)|训练多个RL专家（到达、挤压、躲避）并进行初始VLA微调，然后部署到仿真环境，再进行在线的教师-学生训练|
 |2025|ManifoldTechLtd|Odin-Nav-Stack|[![Github stars](https://img.shields.io/github/stars/ManifoldTechLtd/Odin-Nav-Stack.svg)](https://github.com/ManifoldTechLtd/Odin-Nav-Stack)<br>[website](https://manifoldtechltd.github.io/Odin-Nav-Stack-Webpage/)|（Modular learning approaches）Neupan(基于雷达点输入的端到端导航控制)|
 |2025|`arXiv`<br>Horizon Robotics|[FSR-VLN: Fast and Slow Reasoning for Vision-Language Navigation with Hierarchical Multi-modal Scene Graph](https://arxiv.org/pdf/2509.13733)| [![Github stars](https://img.shields.io/github/stars/HorizonRobotics/HoloAgent.svg)](https://github.com/HorizonRobotics/HoloAgent) <br>[website](https://horizonrobotics.github.io/robot_lab/fsr-vln/)|HMSG：多模态地图表征（FAST-LIVO2等：几何+语义+显式拓扑关系）实现粗略的room-level定位到精细的目标视角与物体定位；接下来FSR基于HMGS，再应用VLM实现最终目标的选择；基于选择的目标实现路径规划以及全身控制来到达目标；Unitree-G1验证|
