@@ -224,11 +224,12 @@ or Image-goal Navigation, or object-goal navigation
 
 
 ## Mapless navigation
-<!-- |---|`arXiv`|---|---|---| -->
+<!-- |---|`arXiv`<br>|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)|[website](https://amrl.cs.utexas.edu/creste/)|
+|2025|`arXiv`<br>TUM|[Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?](https://arxiv.org/pdf/2511.17792)|[![Github stars](https://img.shields.io/github/stars/TUM-AVS/target-bench.svg)](https://github.com/TUM-AVS/target-bench)<br> [website](https://target-bench.github.io/)|四足机器人（AGX Orin+Livox+双目）|
+|2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)<br> [website](https://amrl.cs.utexas.edu/creste/)|---|
 
 
 # Others
