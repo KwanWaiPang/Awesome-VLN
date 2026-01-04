@@ -227,8 +227,8 @@ or Image-goal Navigation, or object-goal navigation
 <!-- |---|`arXiv`<br>|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
-|:----:|:-----:| ----------- |:----------:|:----:|
-|2025|`arXiv`<br>TUM|[Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?](https://arxiv.org/pdf/2511.17792)|[![Github stars](https://img.shields.io/github/stars/TUM-AVS/target-bench.svg)](https://github.com/TUM-AVS/target-bench)<br> [website](https://target-bench.github.io/)<br> [Dataset](https://huggingface.co/target-bench)|数据集Target-Bench: 450 个视频（112,500 帧），覆盖 45 种语义目标类别，涉及多种室内外环境。数据集包含真实轨迹、人类标注的显式和隐式目标; 首次提出世界模型在无图路径规划中的评价框架；开发了世界解码器，可以从生成的视频中提取相机的运动轨迹（引入尺度恢复）;四足机器人（AGX Orin+Livox+双目）|
+|:----:|:-----:| ----------- |:----------:| ----------- |
+|2025|`arXiv`<br>TUM|[Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?](https://arxiv.org/pdf/2511.17792)|[![Github stars](https://img.shields.io/github/stars/TUM-AVS/target-bench.svg)](https://github.com/TUM-AVS/target-bench)<br> [website](https://target-bench.github.io/)<br> [Dataset](https://huggingface.co/target-bench)|数据集Target-Bench: 450 个视频（112,500 帧），覆盖 45 种语义目标类别，涉及多种室内外环境。数据集包含真实轨迹、人类标注的显式和隐式目标，数据集平台为四足机器人（AGX Orin+Livox+双目）; 首次提出世界模型在无图路径规划中的评价框架（路径评估模块）；开发了世界解码器（VGGT/SpaTracker/ViPE），可以从生成的视频中提取相机的运动轨迹（引入尺度恢复）;|
 |2025|`RSS`|[CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921?)|[![Github stars](https://img.shields.io/github/stars/ut-amrl/creste_public.svg)](https://github.com/ut-amrl/creste_public)<br> [website](https://amrl.cs.utexas.edu/creste/)|---|
 
 
