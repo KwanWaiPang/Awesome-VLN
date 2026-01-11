@@ -201,10 +201,11 @@ Feel free to share this list with others!
 
 # Learning-based Navigation
 or Image-goal Navigation, or object-goal navigation
-<!-- |---|`arXiv`|---|---|---| -->
+<!-- |---|`arXiv`<br>|---|---|---| -->
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2025|`arXiv`<br>University of Groningen|[REASAN: Learning Reactive Safe Navigation for Legged Robots](https://arxiv.org/pdf/2512.09537)|[![Github stars](https://img.shields.io/github/stars/ASIG-X/REASAN.svg)](https://github.com/ASIG-X/REASAN)<br>[website](https://asig-x.github.io/reasan_web/)|---|
 |2025|`TRO`|[Neupan: Direct point robot navigation with end-to-end model-based learning](https://arxiv.org/pdf/2403.06828)| [![Github stars](https://img.shields.io/github/stars/hanruihua/NeuPAN.svg)](https://github.com/hanruihua/NeuPAN)<br> [![Github stars](https://img.shields.io/github/stars/hanruihua/neupan_ros.svg)](https://github.com/hanruihua/neupan_ros)<br> [![Github stars](https://img.shields.io/github/stars/KevinLADLee/neupan_ros2.svg)](https://github.com/KevinLADLee/neupan_ros2) |[website](https://hanruihua.github.io/neupan_project/)|
 |2025|`arXiv`|[Unified World Models: Memory-Augmented Planning and Foresight for Visual Navigation](https://arxiv.org/pdf/2510.08713)|[![Github stars](https://img.shields.io/github/stars/F1y1113/UniWM.svg)](https://github.com/F1y1113/UniWM)|---|
 |2025|`arXiv`|[NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance](https://arxiv.org/pdf/2505.08712)|[![Github stars](https://img.shields.io/github/stars/InternRobotics/NavDP.svg)](https://github.com/InternRobotics/NavDP)|[website](https://wzcai99.github.io/navigation-diffusion-policy.github.io/)|
