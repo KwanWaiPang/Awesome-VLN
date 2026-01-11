@@ -5,7 +5,7 @@
 </p>
 
 This repository contains a curated list of resources addressing the VLN (Visual Language Navigation).
-Additionally, it includes related papers from areas such as Learning-based Navigation, etc.
+Additionally, it includes related papers from areas such as learning-based end-to-end navigation and mapless navigation.
 
 If you find some ignored papers, **feel free to [*create pull requests*](https://github.com/KwanWaiPang/Awesome-Transformer-based-SLAM/blob/pdf/How-to-PR.md), or [*open issues*](https://github.com/KwanWaiPang/Awesome-VLN/issues/new)**. 
 
