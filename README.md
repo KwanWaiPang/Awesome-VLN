@@ -15,6 +15,8 @@ If you find this repository useful, a simple star should be the best affirmation
 
 Feel free to share this list with others!
 
+* Paper Survey for [Visual-Language-Action (VLA)](https://github.com/KwanWaiPang/Awesome-VLA)
+
 # Overview
 - [VLN](#VLN)
   - [Simulator and Dataset](#Simulator-and-Dataset)
