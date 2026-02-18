@@ -165,6 +165,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`|[Bridging the Indoor-Outdoor Gap: Vision-Centric Instruction-Guided Embodied Navigation for the Last Meters](https://arxiv.org/pdf/2602.06427)|---|BridgeNavDataset，首个户外到室内导航数据集,包含55K街道视图图像、100+小时视频、55K轨迹-指令对|
 |2026|`AAAI`|[UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories](https://arxiv.org/pdf/2512.09607)|[![Github stars](https://img.shields.io/github/stars/CASIA-IVA-Lab/UrbanNav.svg)](https://github.com/CASIA-IVA-Lab/UrbanNav)|涵盖 1500 小时的第一人称视频数据，包含超过 300 万条与轨迹对齐的自然语言指令，覆盖多样光照条件与天气场景|
 |2025|`ICML`|[Embodiedbench: Comprehensive benchmarking multi-modal large language models for vision-driven embodied agents](https://arxiv.org/pdf/2502.09560)|[![Github stars](https://img.shields.io/github/stars/EmbodiedBench/EmbodiedBench.svg)](https://github.com/EmbodiedBench/EmbodiedBench)|[website](https://embodiedbench.github.io/)<br>[dataset](https://huggingface.co/EmbodiedBench)|
 |2025|`arXiv`|[MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots](https://arxiv.org/pdf/2511.17889)|[![Github stars](https://img.shields.io/github/stars/AIGeeksGroup/MobileVLA-R1.svg)](https://github.com/AIGeeksGroup/MobileVLA-R1)|MobileVLA-CoT数据集<br>[website](https://aigeeksgroup.github.io/MobileVLA-R1/)|
