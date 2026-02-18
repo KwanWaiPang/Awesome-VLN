@@ -31,6 +31,7 @@ Feel free to share this list with others!
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|-----------|
+|2026|`arXiv`<br>Zhejiang University|[NavDreamer: Video Models as Zero-Shot 3D Navigators](https://arxiv.org/pdf/2602.09765)|[website](https://xinjiu612.github.io/NavDreamer/)|视频生成模型（推理轨迹）+Qwen3-VL（轨迹选择）+Ego-Planner接收3D位置目标+传统运控+Fast-LIVO2定位|
 |2026|`arXiv`<br>Amap, Alibaba Group|[MerNav: A Highly Generalizable Memory–Execute–Review Framework for Zero-Shot Object Goal Navigation](https://arxiv.org/pdf/2602.05467)|---|Object Goal Navigation,构建“记忆-执行-复盘”（Memory-Execute-Review）框架:通过分层记忆模块（“短-长-常识”三层记忆系统）积累信息，执行模块（观测分析、路径规划、动作选择、停止决策）应对常规导航，复盘模块（避障脱困、跨区域探索）修正异常行为。|
 |2026|`arXiv`<br> Nanjing University of Aeronautics and Astronautics|[VPN: Visual Prompt Navigation](https://arxiv.org/pdf/2508.01766v6)|[![Github stars](https://img.shields.io/github/stars/farlit/VPN.svg)](https://github.com/farlit/VPN)|视觉提示导航:仅依靠用户在2D顶视图地图中提供的视觉提示引导智能体导航，既降低了非专业用户的使用门槛，又减少了指令的歧义性。提出baseline：VPNet，两个基准数据集：R2R-VP和R2R-CE-VP|
 |2026|`arXiv`<br>Adelaide University|[SpatialNav: Leveraging Spatial Scene Graphs for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/pdf/2601.06806)|---|零样本VLN，智能体在执行导航任务前对环境进行充分预探索（也就是SLAM）；构建了空间场景图（SSG），通过对RGB-SLAM获取的3D点云添加结构化空间标注（如楼层-房间-物体的层级关系）和语义标签（如房间类型、物体类别）；SpatialNav智能体基于MLLM（GPT-5.1）；R2R的SR为59.3%，REVERIE的SR为50.4%，R2R-CE为68.0%，RxR-CE为39.0%|
