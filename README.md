@@ -291,6 +291,7 @@ or Image-goal Navigation, or object-goal navigation
 <!-- [![Github stars](https://img.shields.io/github/stars/***.svg)]() -->
 | Year | Venue | Paper Title | Repository | Note |
 |:----:|:-----:| ----------- |:----------:|:----:|
+|2026|`arXiv`<br>SUSTech|[VGP-Nav: Metric-Aware Visual Geometric Perception for Robot Navigation](https://arxiv.org/pdf/2606.09268)|---|纯单目RGB的度量感知视觉几何框架：以VGGT前馈多视重建得到相对位姿与稠密几何；几何感知检索（空间离群剔除+视角多样性采样）选参考帧；加权运动平均（旋转一致性+多因子IRLS平移）估计全局6-DoF位姿；地面锚定尺度恢复（相机高度先验初始化+在线地面高度对齐）消解单目尺度歧义，并将点云投影为度量占用图供规划；Unitree G1+RealSense D455（仅RGB）办公场景点目标导航验证|
 |2025|`IEEE/ASME Transactions on Mechatronics`|[Aligning cyber space with physical world: A comprehensive survey on embodied ai](https://arxiv.org/pdf/2407.06886)|[![Github stars](https://img.shields.io/github/stars/HCPLab-SYSU/Embodied_AI_Paper_List.svg)](https://github.com/HCPLab-SYSU/Embodied_AI_Paper_List)|---|
 |2025|`arXiv`|[HumanoidPano: Hybrid Spherical Panoramic-LiDAR Cross-Modal Perception for Humanoid Robots](https://arxiv.org/pdf/2503.09010)|---|---|
 |2021|`ICML`|[Learning transferable visual models from natural language supervision](https://proceedings.mlr.press/v139/radford21a/radford21a.pdf)|[![Github stars](https://img.shields.io/github/stars/OpenAI/CLIP.svg)](https://github.com/OpenAI/CLIP)|CLIP<br>[website](https://openai.com/index/clip/)|
